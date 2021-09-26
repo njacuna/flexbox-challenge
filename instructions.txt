@@ -1,0 +1,6 @@
+In this exercise you should make use of CSS Flex Properties.
+
+Rules:
+1. NO margin, padding, and width related properties in your CSS.
+2. Make use of CSS Flex Properties.
+3. Use and DO NOT EDIT the given HTML file.
